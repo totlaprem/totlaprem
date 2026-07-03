@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">
+Hi 👋 I'm Prem Totla
+</h1>
 
-<!--
-**totlaprem/totlaprem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI Researcher • BSc IT Student • Python Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BSc IT Student
+- 🤖 Aspiring AI Research Scientist
+- 🧠 Learning Machine Learning & Deep Learning
+- 🌍 Planning MSc in Ireland (2027)
+- 💻 Love building AI Projects
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Python+Developer;Machine+Learning;Deep+Learning;Open+Source+Contributor)](https://git.io/typing-svg)
