@@ -33,3 +33,17 @@ AI Researcher • BSc IT Student • Python Developer
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher;Python+Developer;Machine+Learning;Deep+Learning;Open+Source+Contributor)](https://git.io/typing-svg)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=premtotla&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premtotla&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Researcher;Machine+Learning+Engineer;Python+Developer;Future+MSc+Student+in+Ireland"/>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=totlaprem&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
